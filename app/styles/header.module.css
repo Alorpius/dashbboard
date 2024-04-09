@@ -1,0 +1,26 @@
+
+.title{
+    margin: 0;
+    line-height: 1.15;
+  }
+  .title,
+  .description{
+      text-align: center;
+  }
+  .title a,
+  .title span{
+      color: #0070f3;
+      text-decoration: none;
+      font-size: 4rem;
+  }
+  .description{
+      line-height: 1.5;
+      font-size: 1.5rem;
+  }
+  .code{
+      background: #fafafa;
+      border-radius: 5ps;
+      padding: 0.75rem;
+      font-size: 1.1rem;
+      font-family: menlo, monaco, lucida console, liberation mono, Dejavu sans mono, Bitstream vera sans Mono, 'Courier New', Courier, monospace;
+  }
